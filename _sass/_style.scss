@@ -16,11 +16,7 @@ body {
   overflow-x: hidden;
   color: $color-text;
   font-size: 1rem;
-  max-width: 1000px;
-
-  @media (min-width: 820px) {
-    font-size: 1.2rem;
-  }
+  max-width: 40em;
 }
 
 time {
@@ -115,10 +111,10 @@ nav {
     "content"
     "side";
 
-  @media (min-width: 700px) {
-    grid-template-columns: 3fr 1fr;
-    grid-template-areas: "content side";
-  }
+  // @media (min-width: 700px) {
+  //   grid-template-columns: 3fr 1fr;
+  //   grid-template-areas: "content side";
+  // }
 }
 
 .backlink-box {
@@ -143,4 +139,15 @@ code {
 .invalid-link-brackets {
   color: #ccc;
   cursor: help;
+}
+
+.article-list {
+  list-style-type: none;
+  padding-inline-start: 0;
+}
+
+.article-date {
+  color: $color-subtext;
+  margin-right: 1em;
+  font-family: monospace;
 }
