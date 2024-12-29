@@ -7,13 +7,13 @@ date: 2024-12-11
 
 # 命令行界面
 
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/AWQFEiar7OJU6DicBia1q1PEGM0dv8rDxwreHwuicG1PBGVFNXpq06WFfbKo6YnFx6G8RZqfEbIKqM7aaSaxkB9yuw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![terminal](assets/terminal-tuya.webp)
 
 在命令行时代，人与计算机的交互方式与现在的AI聊天很像。人输入指令，计算机回答。只不过你必须输入计算机规定的语言，这与我们日常语言很不一样，普通人很难理解。这个时候只有少部分人能使用计算机，他们被称作计算机专家。
 
 # 图形界面
 
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/AWQFEiar7OJU6DicBia1q1PEGM0dv8rDxwrlfBeYSIEwPZvHRQc7VfSof9Yhy0TSLRTb39RZEglVTQyicGT6J5UqVg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![GUI](assets/gui-tuya.webp)
 
 1973年，施乐公司的Xerox Alto电脑首次把图形交互界面引入了计算机。十年之后，Apple发布了第一台拥有图形交互界面的个人电脑——Apple Lisa。其中的很多设计和特性，在今天的macOS系统中仍然能见到。
 
@@ -21,7 +21,7 @@ date: 2024-12-11
 
 # 虚拟助手
 
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/AWQFEiar7OJU6DicBia1q1PEGM0dv8rDxwrphEPQ4F47hGHJ3FwElqXs4zwA7eS3EvomGayOibIukKe1xGzQOC3Luw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![clippy](assets/clippy-tuya.webp)
 
 但在上世纪90年代，大部分人从来没有使用过电脑。当你购买了一台电脑或者任何一个软件，附带的还有一本厚厚的说明书和操作手册。
 
@@ -31,13 +31,12 @@ date: 2024-12-11
 
 但Clippy的失败可能仅仅是因为它太超前了，遥遥领先于当时的技术。不过，它的出现也让科技开始有了一丝人性化。
 
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/AWQFEiar7OJU6DicBia1q1PEGM0dv8rDxwrMPzKTmelLj4dywtOMSyCmj9jym0Q5d2HNIEhHjXXiaeOC1YcMtWdDlQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
-
+![ruixing](ruixing-tuya.webp)
 瑞星杀毒软件的小狮子
 
 # 语音交互
 
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/AWQFEiar7OJU6DicBia1q1PEGM0dv8rDxwr6nqaXiba2RWXqibEX9kic6UA0XjZqqxJCXh304IA2qUH52ViafL0mXHkSA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![siri](assets/siri-tuya.webp)
 
 2011年，Apple 在新发布的iPhone 4S中搭载了Siri，把智能语音助手推向了大众。与过往的所有交互方式不同，Siri能够让你用自然语言发布指令，你平常怎么跟人说话，就怎么跟手机说话。手机会试图理解你的意思。
 
@@ -47,11 +46,11 @@ date: 2024-12-11
 
 # 对话式交互界面
 
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/AWQFEiar7OJU6DicBia1q1PEGM0dv8rDxwrYDfoiaXeBmuVZibFasvtb6TAQiaiczkSicBicHs950SpXV6j0Htu9LQPQRdQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![chatgpt](assets/chatgpt-tuya.webp)
 
 2022年年底，OpenAI发布了ChatGPT，引发了一场风暴。ChatGPT 就像一个获得了史诗级加强的Siri，无所不知，知无不言。交互回到了最初的样子，就像命令行界面一样，简单的输入框，用户输入，界面回复。9个月内它就吸引了100万用户，超过了抖音的速度。之后，各大公司开始推出自家的AI大模型，所有产品都开始加上AI的前缀。AI除了回答你的问题，还能够为你生成图片、音乐、视频，甚至直接操作你的电脑。对话式交互开始成为主流。
 
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/AWQFEiar7OJU6DicBia1q1PEGM0dv8rDxwriah21A3ictWsTWlJtYIhQY4icG6A1ztmk4LKTibia8wxd0iaVmibWjQ4mgStg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![claude](assets/claude-tuya.webp)
 
 # 对话式交互的限制与未来
 
