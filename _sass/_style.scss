@@ -15,7 +15,7 @@ body {
   padding: 4vh 6vw;
   overflow-x: hidden;
   color: $color-text;
-  font-size: 1rem;
+  font-size: 1.1rem;
   max-width: 40em;
 }
 
@@ -75,7 +75,7 @@ a {
   transition: background 300ms;
   padding: 0 0.1em;
   text-decoration: none;
-  border-bottom: 1px solid $color-border;
+  border-bottom: 2px solid $color-border;
   color: $color-primary;
   &:hover {
     color: black !important;
@@ -92,6 +92,14 @@ a {
   &.footnote:after,
   &.reversefootnote:after {
     content: "";
+  }
+}
+
+content .internal-link {
+  border-bottom: 2px solid $color-border !important;
+  background: transparent !important;
+  &:hover {
+    background: #fffaf1 !important;
   }
 }
 
