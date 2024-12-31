@@ -21,6 +21,7 @@ permalink: /
 
 ## 在其他地方找到我
 
+- 微信公众号：文遇安
 - 小红书：[realwya](https://www.xiaohongshu.com/user/profile/5b54a6d3f7e8b9701171b054)
 - Figma：[realwya](https://www.figma.com/@realwya)
 - Dribbble：[realwya](https://dribbble.com/realwya)
